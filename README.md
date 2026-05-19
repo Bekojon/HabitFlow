@@ -52,12 +52,12 @@ The goal of this project is to create a personal productivity dashboard that fee
 > Add your own screenshots here after uploading them into the repository.
 
 <p align="center">
-  <img src="./screenshots/dashboard.png" alt="HabitFlow Dashboard Preview" width="100%" />
+  <img src="./dashboard.jpg" alt="HabitFlow Dashboard Preview" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./screenshots/habits.png" alt="HabitFlow Habits Preview" width="49%" />
-  <img src="./screenshots/analytics.png" alt="HabitFlow Analytics Preview" width="49%" />
+  <img src="./habits.jpg" alt="HabitFlow Habits Preview" width="49%" />
+  <img src="./analytics.jpg" alt="HabitFlow Analytics Preview" width="49%" />
 </p>
 
 ---
